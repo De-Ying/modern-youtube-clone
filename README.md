@@ -16,6 +16,10 @@ npm i prettier eslint-plugin-prettier eslint-config-prettier -D
 
 ## Layout 
 
+## Navbar
+
+## Feed & Sidebar
+
 
 
 
