@@ -32,4 +32,9 @@ Using RapidAPI to fetch youtube data:
 
 # Videos
 
+# Profile page
+
+# Search
+
+# Video Details
 
