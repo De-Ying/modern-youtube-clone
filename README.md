@@ -42,3 +42,6 @@ Using RapidAPI to fetch youtube data:
 
 Finally, deploy the software to the site [netlify.com](https://www.netlify.com/)
 
+
+[Link to deploy the application ⤷](https://glittering-platypus-7837b8.netlify.app)
+
