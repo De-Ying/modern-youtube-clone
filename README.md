@@ -38,3 +38,7 @@ Using RapidAPI to fetch youtube data:
 
 # Video Details
 
+# Deployment
+
+Finally, deploy the software to the site [netlify.com](https://www.netlify.com/)
+
